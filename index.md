@@ -19,7 +19,7 @@
 	</div>
 	<ul class="topnav">
   <li><a class="active" [a href]=(https://github.com/eddiebauzo/My-webpage/edit/master/index.html)>Home</a></li>
-  <li><a class="active" [a href]=(https://github.com/eddiebauzo/My-webpage/blob/master/Resume.md>Resume)</a></li>
+  <li><a class="active" [a href]=(https://github.com/eddiebauzo/My-webpage/blob/master/Resume.md)>Resume</a></li>
   <li><a class="active" [a href]=(https://github.com/eddiebauzo/My-webpage/edit/master/Contact.md)>Contact</a></li>
 </ul>
 </div>
