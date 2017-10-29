@@ -1,9 +1,9 @@
 <html>
 	<title>Eddie M Bauzo</title>
 	<meta name="description" content="Eddie M Bauzo">
-	<link rel="html" href="https://github.com/eddiebauzo/My-webpage/edit/master/Resume">
-	<link rel="html" href="https://github.com/eddiebauzo/My-webpage/blob/master/Contact">
-	<link rel="stylesheet" href="https://github.com/eddiebauzo/My-webpage/edit/master/CSS%201">
+	<link rel="html" a href="https://github.com/eddiebauzo/My-webpage/edit/master/Resume">
+	<link rel="html" a href="https://github.com/eddiebauzo/My-webpage/blob/master/Contact">
+	<link rel="stylesheet" a href="https://github.com/eddiebauzo/My-webpage/edit/master/CSS%201">
 </head>
 <body class= "website">
 		<h1>Welcome to my Webpage</h1>
@@ -11,9 +11,9 @@
 		<h3>Resume</h3>
 	</div>
 	<ul class="topnav">
-  <li><a class="active" href="https://github.com/eddiebauzo/My-webpage/blob/master/index.html">Home</a></li>
-  <li><a class="active" href="https://github.com/eddiebauzo/My-webpage/edit/master/Resume">Resume</a></li>
-  <li><a class="active" https://github.com/eddiebauzo/My-webpage/blob/master/Contact">Contact</a></li>
+  <li><a class="active" a href="https://github.com/eddiebauzo/My-webpage/blob/master/index.html">Home</a></li>
+  <li><a class="active" a href="https://github.com/eddiebauzo/My-webpage/edit/master/Resume">Resume</a></li>
+  <li><a class="active" a https://github.com/eddiebauzo/My-webpage/blob/master/Contact">Contact</a></li>
   </ul>
 </div>
 <script>document.write(Date());</script>
@@ -22,7 +22,7 @@
 <a href="http://www.google.com/" onclick="alert('Vas a ir a Google')">Google</a>
 <title>Resume</title>
 
-	<link rel="stylesheet" href="eddie 4 new 2.css" />
+	<link rel="stylesheet" a href="https://github.com/eddiebauzo/My-webpage/blob/master/CSS%202" />
 
 <body>
 
