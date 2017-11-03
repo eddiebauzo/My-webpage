@@ -1,0 +1,56 @@
+body { 
+
+background: white;
+border: solid linear-gradient;
+	
+}
+h1 {
+	color: black;
+	background: #b8b894;
+	border: solid linear-gradient(to bottom, white, white) 15px;
+	text-align: center;
+	font-size: 40px;
+	font-family: times new roman;
+}
+#footer-info {
+	background: linear-gradient(to bottom, white, white) center;
+	color: black;
+	border: 4px linear-gradient(to bottom, white, white) solid;
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b8b894;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 22px 22px;
+    text-decoration: none;
+	font-size: 25;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #b8b894;}
+
+ul.topnav li a.active {background-color: #b8b894;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px){
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+}
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b8b894;
+}
