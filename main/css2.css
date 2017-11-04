@@ -8,7 +8,7 @@ border-width: 200px;
 h1 {
 	color: black;
 	background: #b8b894;
-	border: solid linear-gradient(to bottom, white, white) 15px;
+	border: solid linear-gradient(to bottom, white, white);
 	text-align: center;
 	font-size: 40px;
 	font-family: times new roman;
