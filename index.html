@@ -24,6 +24,22 @@
   	<img class="mySlides w3-animate-fading" src="2013-04-08 23.44.41.jpg" style="width:100%">
 	</center>
 </div>	
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 9000);    
+}
+</script>	
 </div><div class="footer">
 		<div id="footer-info">
 		<p>"Copyright 2017 Eddie M Bauzo. All Rights Reserved."</p>
