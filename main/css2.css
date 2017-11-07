@@ -21,14 +21,8 @@ h1 {
 footer-info {
 	background: linear-gradient(to bottom, white, white) center;
 	color: black;
-	border: 4px linear-gradient(to bottom, white, white) solid;
+	border: 25px linear-gradient(to bottom, white, white) solid;
 }
-footer {
-background: linear-gradient(to bottom, white, white) center;
-color: black;
-border: 4px linear-gradient(to bottom, white, white) solid;
-}
-
 ul.topnav {
     list-style-type: none;
     margin: 0;
