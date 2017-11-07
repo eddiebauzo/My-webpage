@@ -21,7 +21,8 @@ h1 {
 footer-info {
 	background: linear-gradient(to bottom, white, white) center;
 	color: black;
-	border: 25px linear-gradient(to bottom, white, white) solid;
+	text-align: center;
+	border: 50% linear-gradient(to bottom, white, white) solid;
 }
 ul.topnav {
     list-style-type: none;
