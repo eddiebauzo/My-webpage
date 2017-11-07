@@ -18,7 +18,7 @@ h1 {
 	font-family: "Segoe UI",Arial,sans-serif;
 }
 	
-#footer-info {
+footer-info {
 	background: linear-gradient(to bottom, white, white) center;
 	color: black;
 	border: 4px linear-gradient(to bottom, white, white) solid;
