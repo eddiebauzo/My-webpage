@@ -18,11 +18,11 @@ h1 {
 	font-family: "Segoe UI",Arial,sans-serif;
 }
 	
-footer-info {
+#footer-info {
 	background: linear-gradient(to bottom, white, white) center;
 	color: black;
 	text-align: center;
-	border: 50% linear-gradient(to bottom, white, white) solid;
+	border: 55px linear-gradient(to bottom, white, white) solid;
 }
 ul.topnav {
     list-style-type: none;
