@@ -17,6 +17,10 @@ h1 {
     	height: 65px;
 	font-family: "Segoe UI",Arial,sans-serif;
 }
+
+h2 {
+	baxkground: gray;
+}
 	
 #footer-info {
 	background: linear-gradient(to bottom, white, white) center;
